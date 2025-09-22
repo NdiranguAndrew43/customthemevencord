@@ -12,15 +12,7 @@
      --secondary3-colour: rgba(0,0,0,0.6);
      --secondary4-colour: rgba(0,0,0,0.3);
  }
-   
- /*
- Theme Owned and Made by VaporousCreeper#9514
-   
- Background Img: https://wpblink.com/sites/default/files/wallpaper/anime/66761/sword-art-online-ii-wallpapers-hd-66761-327252.png 
- 
- The items above are not owned by me, They go to there respected owners 
- */
- 
+
 /*Background  image*/
     #app-mount {
         background: var(--background);
